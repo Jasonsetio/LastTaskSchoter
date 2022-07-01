@@ -1,4 +1,6 @@
 package com.androiddevs.mvvmnewsapp
 
-class NewsApplication {
+import android.app.Application
+
+class NewsApplication : Application() {
 }

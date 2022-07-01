@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389365025148",
+    "project_id": "schoter-7625c",
+    "storage_bucket": "schoter-7625c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389365025148:android:89eb38e4bbcd152d2a7cf9",
+        "android_client_info": {
+          "package_name": "com.example.schoter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389365025148-dkd2m76fhdnuq6fs2hdlrea5c1lrcsht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schoter",
+            "certificate_hash": "6679de75d38f72a8a3a072453113ce0a6248ff60"
+          }
+        },
+        {
+          "client_id": "389365025148-alhjabod2iridvn5mtdnkfjc65o5toic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Zg7Ap35jjjt55x18rytnaKMN8ZblArU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389365025148-alhjabod2iridvn5mtdnkfjc65o5toic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
